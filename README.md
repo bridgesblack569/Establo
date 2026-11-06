@@ -189,3 +189,6 @@ This repository serves as the official landing page for Establo. The software is
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Establo today!**
+
+---
+**Last updated:** 2026-11-06 09:17:09 UTC
