@@ -191,4 +191,4 @@ This repository serves as the official landing page for Establo. The software is
 **Get the most recent version of Establo today!**
 
 ---
-**Last updated:** 2026-11-10 22:14:05 UTC
+**Last updated:** 2026-11-11 02:38:46 UTC
